@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandro\\Documents\\GIT\\Gendar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9181508B-08C1-4237-879E-747F5E875695}|Gendar.csproj|c:\\users\\sandro\\documents\\git\\gendar\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9181508B-08C1-4237-879E-747F5E875695}|Gendar.csproj|solutionrelative:controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9181508B-08C1-4237-879E-747F5E875695}|Gendar.csproj|c:\\users\\sandro\\documents\\git\\gendar\\repository\\gendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9181508B-08C1-4237-879E-747F5E875695}|Gendar.csproj|solutionrelative:repository\\gendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9181508B-08C1-4237-879E-747F5E875695}|Gendar.csproj|c:\\users\\sandro\\documents\\git\\gendar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9181508B-08C1-4237-879E-747F5E875695}|Gendar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9181508B-08C1-4237-879E-747F5E875695}|Gendar.csproj|c:\\users\\sandro\\documents\\git\\gendar\\repository\\inteface\\igendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9181508B-08C1-4237-879E-747F5E875695}|Gendar.csproj|solutionrelative:repository\\inteface\\igendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\Documents\\GIT\\Gendar\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\Sandro\\Documents\\GIT\\Gendar\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "Controllers\\StaffController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:17:47.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\Documents\\GIT\\Gendar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sandro\\Documents\\GIT\\Gendar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:33:06.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGendarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\Documents\\GIT\\Gendar\\Repository\\Inteface\\IGendarRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Inteface\\IGendarRepository.cs",
+              "ToolTip": "C:\\Users\\Sandro\\Documents\\GIT\\Gendar\\Repository\\Inteface\\IGendarRepository.cs",
+              "RelativeToolTip": "Repository\\Inteface\\IGendarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:28:50.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GendarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\Documents\\GIT\\Gendar\\Repository\\GendarRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GendarRepository.cs",
+              "ToolTip": "C:\\Users\\Sandro\\Documents\\GIT\\Gendar\\Repository\\GendarRepository.cs",
+              "RelativeToolTip": "Repository\\GendarRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:28:20.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
